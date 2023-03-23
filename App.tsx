@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, SafeAreaView} from 'react-native';
+import {SafeAreaView} from 'react-native';
 import {Provider} from 'react-redux';
 import {store} from './src/app/store';
 import CounterScreen from './src/screens/CounterScreen';
